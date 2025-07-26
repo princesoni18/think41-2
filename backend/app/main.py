@@ -1,4 +1,4 @@
-from app.services.load_csv_to_mongo import load_csv_to_mongo
+# from backend.app.services.load_data import load_csv_to_mongo
 from fastapi import FastAPI
 from app.routers import chat_router
 
